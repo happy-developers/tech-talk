@@ -15,3 +15,4 @@
 |4주차|2023.6.6|[테크톡](https://github.com/happy-developers/tech-talk/issues/9)
 |5주차|2023.6.13|[테크톡](https://github.com/happy-developers/tech-talk/issues/10)
 |6주차|2023.6.20|[테크톡](https://github.com/happy-developers/tech-talk/issues/11)
+|7주차|2023.6.26|쉼|
