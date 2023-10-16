@@ -20,3 +20,4 @@
 - [2023.09.12 테크톡](https://github.com/happy-developers/tech-talk/issues/17)  
 - [2023.09.18 테크톡](https://github.com/happy-developers/tech-talk/issues/18)  
 - [2023.10.09 테크톡](https://github.com/happy-developers/tech-talk/issues/19)
+- [2023.10.16 테크톡](https://github.com/happy-developers/tech-talk/issues/20)
